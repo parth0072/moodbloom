@@ -14,7 +14,7 @@ from your browser, then tap Install. One tap, straight to the file:
 
 This is a test version for trying the app, so it is not on the Play Store yet.
 
-**iPhone.** Not available yet.
+**iPhone.** TestFlight invite coming soon.
 
 ## What you can do
 
