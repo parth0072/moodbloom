@@ -16,6 +16,8 @@ This is a test version for trying the app, so it is not on the Play Store yet.
 
 **iPhone.** TestFlight invite coming soon.
 
+**Web.** [Open the Moodbloom web app](https://api.alphabyteinnovation.com/moodcircle/) in any browser.
+
 ## What you can do
 
 - **Check in with one tap.** Pick how today feels: Joy, Calm, Sad, Worry, Anger or Meh. Tap it again to undo, or tap
