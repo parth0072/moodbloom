@@ -14,7 +14,8 @@ from your browser, then tap Install. One tap, straight to the file:
 
 This is a test version for trying the app, so it is not on the Play Store yet.
 
-**iPhone.** TestFlight invite coming soon.
+**iPhone.** [Join the TestFlight beta](https://testflight.apple.com/join/T9RdvfbR). Install Apple's free TestFlight app on your
+iPhone, open the link and tap Install. It is a test version, so please tell us what is confusing or broken.
 
 **Web.** [Open the Moodbloom web app](https://api.alphabyteinnovation.com/moodcircle/) in any browser.
 
