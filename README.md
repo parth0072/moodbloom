@@ -82,16 +82,16 @@ of harming yourself, contact your local emergency number or a crisis line right 
 
 ## Questions and feedback
 
-Open an [issue](https://github.com/parth0072/moodbloom/issues) here, or contact the owner on GitHub:
-[@parth0072](https://github.com/parth0072).
+Open an [issue](https://github.com/parth0072/moodbloom/issues) here, or email
+[support@blackblock.co.in](mailto:support@blackblock.co.in).
 
 Moodbloom is still being built, and new things are added often. It used to be called MoodCircle.
 
 ## License and copyright
 
-Copyright © 2026 Parth Kshatriya. All rights reserved.
+Copyright © 2026 Blackblock. All rights reserved.
 
-Moodbloom (formerly MoodCircle) belongs to its owner, Parth Kshatriya. You are welcome to download the app from the link
+Moodbloom (formerly MoodCircle) belongs to its owner, Blackblock. You are welcome to download the app from the link
 above and use it for yourself.
 
 Everything else, including the app's designs, text, names and artwork, is protected, and **nothing here is licensed for
@@ -102,6 +102,6 @@ granted.
 
 The names Moodbloom and MoodCircle (its earlier name), and the look of the app, may not be used for another product.
 
-To ask for permission, contact the owner on GitHub: [@parth0072](https://github.com/parth0072).
+To ask for permission, email [support@blackblock.co.in](mailto:support@blackblock.co.in).
 
 The app is provided "as is", without warranty of any kind.
