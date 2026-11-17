@@ -17,7 +17,7 @@ This is a test version for trying the app, so it is not on the Play Store yet.
 **iPhone.** [Join the TestFlight beta](https://testflight.apple.com/join/T9RdvfbR). Install Apple's free TestFlight app on your
 iPhone, open the link and tap Install. It is a test version, so please tell us what is confusing or broken.
 
-**Web.** [Open the Moodbloom web app](https://api.alphabyteinnovation.com/moodcircle/) in any browser.
+**Web.** [Open the Moodbloom web app](https://blackblock.co.in/moodbloom/app/) in any browser.
 
 ## What you can do
 
@@ -35,6 +35,8 @@ iPhone, open the link and tap Install. It is a test version, so please tell us w
 - **Keep a private journal.** Locked with a 12-word secret phrase that only you hold, and opened with Face ID or your
   fingerprint on your phone, so no one else can read it (more below).
 - **Get a gentle reminder.** A daily reminder at 8:30 pm, if you want one.
+- **Stay in control of statistics.** In the iPhone app, a *Share usage statistics* switch in Profile turns off the anonymous
+  screen counts at any time.
 - **Look after your account.** Sign up with a code sent to your email, log in with a password, change your password in
   Settings, or reset it if you forget it. You can also sign out of your other devices.
 
@@ -71,11 +73,14 @@ protect you from someone who is holding your unlocked phone or who finds your se
 - **Report and block.** The "more" button on a post, a shared entry or a member lets you report it or block the person.
   Every report is looked at.
 - **Delete your account.** In the app: Profile, then *Delete account*. Everything of yours is removed for good.
-- **No ads and no tracking.** Moodbloom does not sell your data or follow you across other apps.
+- **No ads and no tracking.** Moodbloom does not sell your data or follow you across other apps, and the iPhone app does not read
+  your advertising id. It counts which screens are used, never what you write, and you can switch that off in Profile.
+- **Careful with the big buttons.** Logging out and deleting your account both ask you to confirm first.
 
-Read the details: [Privacy policy](https://api.alphabyteinnovation.com/moodcircle/privacy.html) ·
-[Terms of use](https://api.alphabyteinnovation.com/moodcircle/terms.html) ·
-[How to delete your account](https://api.alphabyteinnovation.com/moodcircle/delete-account.html)
+Read the details: [Privacy policy](https://blackblock.co.in/moodbloom/privacy.html) ·
+[Terms of use](https://blackblock.co.in/moodbloom/terms.html) ·
+[Support](https://blackblock.co.in/moodbloom/support.html) ·
+[How to delete your account](https://blackblock.co.in/moodbloom/delete-account.html)
 
 Moodbloom helps you notice how you feel. It is not a medical, therapy or crisis service. If you are in danger or thinking
 of harming yourself, contact your local emergency number or a crisis line right away, and talk to someone you trust.
