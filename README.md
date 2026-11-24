@@ -48,6 +48,19 @@ iPhone, open the link and tap Install. It is a test version, so please tell us w
 
 What you write stays private to you unless you choose to share it.
 
+## Junk journal: write it, then let it go
+
+> ### Some thoughts aren't worth keeping.
+
+![Moodbloom Junk journal: write what is on your mind, choose a window, and it leaves on a random day](docs/images/junk-journal.png)
+
+- **Write it out.** The stress, the overthinking, the "why did I say that". Say it plainly. It is just for you.
+- **Pick a window.** A week, a month, three months, or your own last day. It always starts tomorrow.
+- **Let it go.** On a random day inside that window the note disappears for good. You won't know which day. You can read
+  it until then, or let it go at once, and you are told once, after it has left.
+
+Moodbloom helps you notice how you feel. Junk journal helps you let go of what doesn't serve you.
+
 ## Your private journal: locked, and only yours
 
 > ### Write anything, without holding back.
