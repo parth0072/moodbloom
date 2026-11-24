@@ -26,6 +26,8 @@ iPhone, open the link and tap Install. It is a test version, so please tell us w
 - **Add the details when you want to.** Say how strong the feeling is, add a few tags and a short note.
 - **See your patterns.** A week or a month at a glance: which feelings showed up most, how the last seven days went, and
   a balance score.
+- **Write the way you like.** In the iPhone and Android apps the journal has a rich editor: bold, italic, underline,
+  titles and headings, bulleted and numbered lists, checklists, quotes and code. Older plain notes open in it as they were.
 - **Keep a journal.** Write notes for hard days and memories for good ones. Add photos, search what you wrote, and share
   an entry with a friend if you choose to. If you pick a sad or worried mood, the app offers to let a friend know.
 - **Share with your circles.** Start a circle with friends or family, or join one with an invite code. A circle you start
@@ -34,6 +36,10 @@ iPhone, open the link and tap Install. It is a test version, so please tell us w
   delete the circle, and anyone can leave.
 - **Keep a private journal.** Locked with a 12-word secret phrase that only you hold, and opened with Face ID or your
   fingerprint on your phone, so no one else can read it (more below).
+- **Let go of what doesn't serve you.** The Junk journal is for the thoughts you don't need: the stress, the overthinking,
+  the "why did I say that". Write it out, choose a window (a week, a month, three months or your own), and the note
+  disappears on a random day inside it. You won't know which day. You can read it until then, or let it go at once, and
+  you'll be told once, after it has left.
 - **Get a gentle reminder.** A daily reminder at 8:30 pm, if you want one.
 - **Stay in control of statistics.** In the iPhone app, a *Share usage statistics* switch in Profile turns off the anonymous
   screen counts at any time.
